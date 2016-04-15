@@ -1,0 +1,2 @@
+run python -m SimpleHTTPServer while in folder.
+go to localhost:8000
